@@ -21,8 +21,8 @@ With this app we can create code quiz that:
 
 ## Screen Shot
 
-![Screenshot](./Screenshot%202.png)
 ![Screenshot](./Screenshot.png)
+![Screenshot](./Screenshot 2.png)
 
 # Links
 
