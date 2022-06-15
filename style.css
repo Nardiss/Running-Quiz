@@ -1,0 +1,72 @@
+* {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+   display: flex;
+   flex-direction: column;
+}
+
+#highScores {
+    /*score board styles */
+    cursor: pointer;
+    position: absolute;
+    top:0;
+    left: 30px;
+    font-size: 20px;
+}
+
+
+#countdown {
+    /* position in top right corner */
+    position: absolute;
+    top:0;
+    right: 30px;
+    font-size: 20px;
+}
+
+#startGame {
+    margin-left: 47%;
+}
+/*buttons styles*/
+button {
+    cursor: pointer;
+    background-color: rgb(59, 18, 97);
+    border: 2px, 1px black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    display: block;
+   
+    font-size: 20px;
+    border-radius: 20%;
+    margin-left: 30%;
+}
+
+form {
+    display: block;
+    font-size: large;
+}
+
+h1 {
+    font-size: xx-large;;
+}
+
+p {
+    line-height: .5;
+    font-size: larger;
+}
+
+table {
+    display: inline-block;
+    background-color: palegoldenrod;
+    border: black solid 2px;
+    width: 50%;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+}
